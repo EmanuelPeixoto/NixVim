@@ -12,7 +12,7 @@
         html.enable = true;                   # HTML
         jsonls.enable = true;                 # JSON
         cssls.enable = true;                  # CSS
-        emmet-ls.enable = true;               # HTML/CSS/SCSS/JS
+        # emmet-ls.enable = true;               # HTML/CSS/SCSS/JS
     };
   };
 
